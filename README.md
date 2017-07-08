@@ -2,3 +2,5 @@
 
 
 <img src="http://i.imgur.com/i9hcVJ5.gif">
+
+Animation created using [pinhole](https://github.com/tidwall/pinhole). 
