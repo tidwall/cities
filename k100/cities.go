@@ -4,6 +4,8 @@ import (
 	"strconv"
 )
 
+// https://github.com/lutangar/cities.json
+
 type City struct {
 	Longitude float64
 	Latitude  float64
